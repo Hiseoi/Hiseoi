@@ -1,7 +1,9 @@
 # KimHyunseo
  👋 Hi, I’m @Hiseoi  
  
- 🏫 Ewha Womans University MBE (2020.3~) Junior   
+ 🏫 Ewha Womans University MBE (2020.3~2024.2)
+
+ 🥧 Ewha PAI Lab
  
  👀 I’m interested in **Computer Vision** & **Natural Language Processing**  
  
